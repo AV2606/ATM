@@ -23,6 +23,8 @@ namespace ATMUI
         public MainWindow()
         {
             InitializeComponent();
+            var page = new WithdrawPage();
+            this.Content = page;
         }
     }
 }

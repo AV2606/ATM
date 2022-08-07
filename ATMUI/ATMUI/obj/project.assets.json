@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\avich\\Desktop\\HackerU\\WebDev\\ATMUI\\ATMUI\\ATMUI.csproj",
+      "projectUniqueName": "C:\\Users\\avich\\Desktop\\Projects\\ATM\\ATMUI\\ATMUI\\ATMUI.csproj",
       "projectName": "ATMUI",
-      "projectPath": "C:\\Users\\avich\\Desktop\\HackerU\\WebDev\\ATMUI\\ATMUI\\ATMUI.csproj",
+      "projectPath": "C:\\Users\\avich\\Desktop\\Projects\\ATM\\ATMUI\\ATMUI\\ATMUI.csproj",
       "packagesPath": "C:\\Users\\avich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\avich\\Desktop\\HackerU\\WebDev\\ATMUI\\ATMUI\\obj\\",
+      "outputPath": "C:\\Users\\avich\\Desktop\\Projects\\ATM\\ATMUI\\ATMUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

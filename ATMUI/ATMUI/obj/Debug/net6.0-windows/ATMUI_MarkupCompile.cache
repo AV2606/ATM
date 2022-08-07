@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\avich\Desktop\HackerU\WebDev\ATMUI\ATMUI\obj\Debug\net6.0-windows\
+C:\Users\avich\Desktop\Projects\ATM\ATMUI\ATMUI\obj\Debug\net6.0-windows\
 ATMUI
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\avich\Desktop\HackerU\WebDev\ATMUI\ATMUI\App.xaml
-11407045341
+C:\Users\avich\Desktop\Projects\ATM\ATMUI\ATMUI\App.xaml
+41030606809
 
-3-1233169557
+61485678861
 1942007414746
-MainWindow.xaml;
+ChoosePage.xaml;DepositPage.xaml;MainWindow.xaml;WithdrawPage.xaml;
 
 False
 
